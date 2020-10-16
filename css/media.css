@@ -1,0 +1,208 @@
+@media(max-width: 1280px) {
+    .main-screen__wrap{margin-top: 65px;}
+    .header__menu{width: 70%;}
+    .main-screen__header-title{font-size: 45px;}
+    .main-screen__header-description{font-size: 24px;}
+    .main-screen__checkbox-text{font-size: 14px;}
+    .compani-slider_img{width: 250px;}
+    .why-we__wrap-block{width: 320px;}
+    .why-we__wrap-img{width: 170px;height: 170px;}
+    .supported__title{font-size: 40px;}
+    .supported__description{font-size: 25px;}
+    .ready__title{font-size: 40px;}
+}
+
+@media(max-width: 1130px) {
+    .main-screen__right-img{min-width: auto;}
+    .main-screen__header-title{font-size: 35px;}
+    .main-screen__header-description{font-size: 20px;}
+    .main-screen__checkbox-text{font-size: 13px;}
+    .main-screen__right-img{padding: 0;min-width: auto;}
+    .compani-slider__header-text{font-size: 30px;}
+    .cybersecurity__nav-img{width: 100px;}
+    .cybersecurity__nav-text{font-size: 22px;}
+    .cybersecurity__slider-header-text{font-size: 30px;}
+    .cybersecurity__slider-header-description{font-size: 15px;}
+    .cybersecurity__info-text{width: auto;font-size: 23px;}
+    .cybersecurity__info-main-description{font-size: 18px;}
+    .cybersecurity__info-main-list{font-size: 17px;}
+    .cybersecurity__slider-img{width: 100px;height: 100px;}
+    .cybersecurity__footer-img{width: 4.5rem;}
+    .cybersecurity__footer-title{font-size: 1.2rem;}
+    .cybersecurity__footer-description{font-size: 0.9rem;}
+    .cybersecurity__footer-author{width: auto;}
+    .why-we__header-text{font-size: 2rem;}
+    .why-we__header-description{font-size: 1.2rem;}
+    .why-we__wrap-block{width: 17rem;}
+    .why-we__wrap-img{width: 8rem;height: 8rem;padding: 1.7rem;}
+    .why-we__wrap-img img{width: 100%;}
+    .why-we__wrap-title{font-size: 1.3rem;}
+    .why-we__wrap-description{font-size: 0.9rem;}
+    .rating__header-title{font-size: 2rem;}
+    .rating__main{margin-top: 3rem;}
+    .rating__table-text{width: auto;}
+}
+
+@media(max-width: 1060px) {
+    .header__menu{display: none;}
+    .header__mob-menu{display: block;}
+    .main-screen__checkbox-text{font-size: 12px;}
+}
+
+@media(max-width: 990px) {
+    .logo__text{font-size: 1rem;}
+    .logo__img{width: 2.5rem;}
+    .main-screen__wrap{margin-top: 3rem;}
+    .main-screen__header-title{font-size: 30px;}
+    .main-screen__header-description{font-size: 16px;}
+    .main-screen__checkbox-text{font-size: 11px;}
+    .compani-slider__header-text{font-size: 25px;}
+    .compani-slider{height: auto;}
+    .compani-slider_img{width: 190px;margin: 0 1rem;}
+    .compani-slider__header{padding-top: 1.5rem;padding-bottom: 0;}
+    .cybersecurity__nav-header-text{font-size: 23px;}
+    .cybersecurity__nav-header-description{font-size: 15px;}
+    .cybersecurity__slider-header-text{font-size: 25px;}
+    .cybersecurity__slider-header-description{font-size: 13px;}
+    .cybersecurity__info-text{font-size: 17px;}
+    .cybersecurity__info-main-description{font-size: 15px;}
+    .cybersecurity__info-main-text-bold{font-size: 17px;}
+    .cybersecurity__info-main-list{font-size: 14px;}
+    .cybersecurity__slider-header{margin: 2rem 0 0;;}
+    .cybersecurity__slider-img{width: 80px;height: 80px;}
+    .cybersecurity__footer{margin: 0 2rem 2rem;}
+    .cybersecurity__footer-img{width: 3.5rem;}
+    .cybersecurity__footer-title{font-size: 1rem;}
+    .cybersecurity__footer-description{font-size: 0.7rem;}
+    .cybersecurity__footer-author{width: 40rem;}
+    .cybersecurity__footer-author-img{width: 120px;}
+    .cybersecurity__footer-author-description{font-size: 15px;}
+    .why-we__header-text{font-size: 1.5rem;}
+    .why-we__header-description{font-size: 1rem;}
+    .why-we__wrap-block{width: 15rem;}
+    .why-we__wrap-img{width: 6rem;height: 6rem;padding: 1.2rem;}
+    .why-we__wrap-title{font-size: 1rem;}
+    .why-we__wrap-description{font-size: 0.7rem;}
+    .rating__header-title{font-size: 1.5rem;}
+    .rating{padding: 2rem;}
+    .rating__main{margin-top: 1rem;}
+    .rating__table-colump-header--title{font-size: 1rem;}
+    .rating__table-text{font-size: 14px;padding-right: 1rem;}
+    .rating__table-colump{height: auto;padding: 0.4rem;}
+    .rating__table-img{width: 25px;}
+    .rating__table-colump-header{width: 200px;height: 57px;}
+    .rating__table-colump{width: auto;}
+    .supported{height: auto;padding: 3rem 0;}
+    .supported__title {font-size: 30px;margin: 0 0 1rem 0;}
+    .supported__description {font-size: 17px;}
+    .ready__title {font-size: 30px;}
+    .ready__description {width: 100%;font-size: 0.8rem;text-align: center;}
+    .footer__logo-company{display: none;}
+    .footer{text-align: center;justify-content: center;}
+    .footer__copiright-text{font-size: 0.8rem;}
+}
+
+@media(max-width: 820px) {
+    .header__wrap{min-height: 76px;margin: 0 1rem;}
+    .main-screen__wrap {margin-top: 1rem;margin-bottom: 2rem;}
+    .main-screen__img{display: none;}
+    .main-screen__wrap{justify-content: center;}
+    .main-screen__text-content{width: 90%;}
+    .main-screen__header-title{text-align: center;}
+    .main-screen__header-description{justify-content: center;display: flex;margin: 0;padding-top: 0;}
+    .main-screen__list-bloсk{margin: 0;justify-content: center;}
+    .main-screen__list-checkbox{width: auto;padding: 0 1rem;}
+    .main-screen__btn-free{display: flex;justify-content: center;}
+    .main-screen__btn-danger--bold{font-size: 15px;}
+    .compani-slider_img{width: 150px;}
+    .compani-slider__control-right-left--style{background-size: 1rem;}
+    .compani-slider__control-right-left--style:hover{background-size: 1.1rem;}
+    .compani-slider__block-img{height: 5rem;}
+    .cybersecurity__nav-main{align-items: center;flex-direction: column;}
+    .cybersecurity__slider-header-description{width: 37rem;}
+    .cybersecurity__footer-author-title{text-align: center;}
+    .cybersecurity__nav-main{margin: 1rem 0 0 0;}
+    .cybersecurity__nav-link{justify-content: normal;align-items: center;flex-direction: unset;width: 17rem;margin: 0.3rem 0;}
+    .cybersecurity__nav-img{width: 70px;margin: 0 0.5rem 0 0;}
+    .cybersecurity__slider-wrap{display: block;justify-content: center;}
+    .cybersecurity__slider-img-block{display: flex;justify-content: center;}
+    .cybersecurity__slider-img{display: inline-block;width: 50px;height: 50px;margin: 0 0.2rem;border-radius: 25%;}
+    .cybersecurity__footer-block{padding: 0;}
+    .cybersecurity__footer-title{padding: 0 1rem;}
+    .cybersecurity__footer-img{width: 2.5rem;}
+    .cybersecurity__footer-title{font-size: 0.8rem;}
+    .cybersecurity__footer-author{width: 20rem;}
+    .cybersecurity__footer-author-img{width: 80px;}
+    .cybersecurity__footer-author-title{font-size: 9px;}
+    .cybersecurity__footer-author-description {font-size: 10px;text-align: center;}
+    .why-we{padding: 2rem 0;}
+    .why-we__wrap{flex-direction: column;align-items: center;}
+    .why-we__wrap-block{width: 100%;}
+    .why-we__wrap-description{text-align: center;}
+    .rating__table-colump-header{width: 130px;height: 57px;}
+    .logo__text--table, .rating__table-colump-header{font-size: 0.8rem;}
+    .logo__img--table{display: none;}
+    .rating{padding: 0 2rem 1rem;}
+    .rating__table-img{width: 20px;}
+    .rating__table-text{font-size: 11px;}
+    .supported{padding: 1rem 0;}
+    .supported__title, .ready__title{font-size: 25px;}
+    .supported__description {font-size: 13px;}
+    .ready{padding: 1rem 0;}
+    .ready__description{font-size: 0.7rem;}
+    .footer{height: auto;padding: 0.5rem 2rem;}
+    .footer__menu{font-size: 0.8rem;}
+}
+
+@media(max-width: 600px) {
+    .header__mob-menu{font-size: 2rem;}
+    .main-screen__wrap{width: 100%;}
+    .main-screen__text-content{width: 100%;}
+    .main-screen__header-title{font-size: 20px;margin: 0 0 0.5rem 0;}
+    .main-screen__header-description{font-size: 13px;}
+    .main-screen__checkbox{padding: 3px 0;}
+    .main-screen__btn-danger--bold{font-size: 13px;padding: 9px 17px;}
+    .compani-slider__header{padding-top: 1rem;}
+    .compani-slider__header-text{font-size: 17px;}
+    .compani-slider_img{width: 100px;}
+    .cybersecurity__nav-header-text{font-size: 16px;}
+    .cybersecurity__nav-header-description{font-size: 11px;}
+    .cybersecurity__nav-img{width: 50px;}
+    .cybersecurity__nav-text {font-size: 17px;}
+    .cybersecurity__nav-link{width: 13rem;}
+    .cybersecurity__slider-wrap{width: 100%;}
+    .cybersecurity__slider-header-text{font-size: 20px;}
+    .cybersecurity__slider-header-description{font-size: 11px;width: 90%;}
+    .cybersecurity__slider-img{width: 40px;height: 40px;}
+    .cybersecurity__info-text{font-size: 13px;}
+    .cybersecurity__info-header{padding: 0.5rem;}
+    .cybersecurity__info-main{margin: 0;}
+    .cybersecurity__info-main-description{font-size: 13px;}
+    .cybersecurity__info-main-text-bold{font-size: 14px;}
+    .cybersecurity__info-main-list{font-size: 12px;}
+    .cybersecurity__footer-title{font-size: 0.7rem;}
+    .cybersecurity__footer-description{font-size: 0.6rem;}
+    .why-we{padding: 1rem 0;}
+    .why-we__header-text{font-size: 1.2rem;}
+    .why-we__header-description {font-size: 0.8rem;}
+    .why-we__wrap-img{width: 5rem;height: 5rem;}
+    .rating__table-colump-header{width: 100px;}
+    .logo__text--table, .rating__table-colump-header{font-size: 0.7rem;}
+    .rating__header-title {font-size: 1.2rem;}
+    .supported__title, .ready__title{font-size: 20px;}
+    .ready__description{width: 90%;}
+}
+
+@media(max-width: 427px) {
+    .main-screen__list-bloсk{margin: 1rem 0;justify-content: center;flex-direction: column;align-items: center;}
+    .main-screen__list-checkbox {width: 55%;margin: 0;}
+    .main-screen__list-checkbox{width: 15rem;}
+    .compani-slider_img{width: 150px;}
+    .cybersecurity__slider-img {width: 30px;height: 30px;}
+    .cybersecurity__info-main{padding: 0 1rem;}
+    .cybersecurity__footer-author{display: none;}
+    .logo__table{flex-direction: column;}
+    .rating__table-colump-header{width: 50px;}
+    .supported__description{font-size: 12px;}
+    .ready__btn--bnt-danger{width: 160px;}
+}
